@@ -1,5 +1,5 @@
 # Internet Relay Chat Implementation using C++
-
+based on RFC 2812 and 2813
 ## Configuration
 requirments: c plus plus 17 or above, port number for servers must be > 9000.
 
